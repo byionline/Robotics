@@ -6,7 +6,7 @@ This contains Arduino code for various movement of Robot.
 
 
 
-![License](http://img.shields.io/:license-mit-blue.svg)
+![License](LICENSE http://img.shields.io/:license-mit-blue.svg)
 
 
 
